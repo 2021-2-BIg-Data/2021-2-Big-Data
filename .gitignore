@@ -1,8 +1,0 @@
-# data ignore
-Data/
-*.csv
-
-# ignore
-catboost_info/
-.ipynb_checkpoints
-logs.log
